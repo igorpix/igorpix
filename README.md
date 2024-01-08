@@ -20,7 +20,7 @@ Sou um estudante de Engenharia Mecatrônica e pesquisador na área de robótica 
 
 ### Tecnologias
 
-- **Lego** :building_construction:
+- **Lego EV3** :building_construction:
 - **Arduino** 	:robot:
 - **Visão Computacional** 	:camera:
 - **Modelagem 3D** 	:art:
@@ -35,5 +35,5 @@ Outra breve descrição do projeto e suas principais características.
 
 ## Contato
 
-- LinkedIn: [Seu Perfil no LinkedIn](link-do-seu-perfil)
-- Email: seuemail@example.com
+- LinkedIn: [Igor Matias](linkedin.com/in/igor-matias-05b4b321a)
+- Email: matias.igor@outlook.com
