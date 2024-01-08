@@ -4,9 +4,7 @@
 
 Sou um estudante de Engenharia Mecatrônica e pesquisador na área de robótica educacional. Atualmente, estou explorando linguagens de programação e tecnologias de hardware acessíveis, buscando expandir meus conhecimentos e habilidades.
 
-- 🌟 Busco constantemente aprender e aprimorar minhas habilidades em programação.
-- 💻 Atualmente estou focado em explorar tecnologias acessíveis e suas aplicações em robótica educacional.
-
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=igorpix&show_icons=true&theme=radical&count_private=true)
 
 ## Habilidades
 
@@ -21,9 +19,9 @@ Sou um estudante de Engenharia Mecatrônica e pesquisador na área de robótica 
 ### Tecnologias
 
 - **Lego EV3** :building_construction:
-- **Arduino** 	:robot:
-- **Visão Computacional** 	:camera:
-- **Modelagem 3D** 	:art:
+- **Arduino** :robot:
+- **Visão Computacional** :camera:
+- **Modelagem 3D** :art:
 
 ## Projetos Destacados
 
