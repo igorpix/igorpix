@@ -6,7 +6,7 @@ Sou um estudante de Engenharia Mecatrônica e pesquisador na área de robótica 
 
 - 🌟 Busco constantemente aprender e aprimorar minhas habilidades em programação.
 - 💻 Atualmente estou focado em explorar tecnologias acessíveis e suas aplicações em robótica educacional.
-- 📚 Estou sempre explorando novas tecnologias e ferramentas para expandir meu conhecimento.
+
 
 ## Habilidades
 
