@@ -25,7 +25,7 @@ Sou um estudante de Engenharia Mecatrônica e pesquisador na área de robótica 
 
 ## Projetos Destacados
 
-### [Leds_VisãoComputacional]([link-para-o-projeto](https://github.com/igorpix/Leds_VisaoComputacional.git))
+### [Leds_VisãoComputacional](https://github.com/igorpix/Leds_VisaoComputacional.git)
 Meu primeiro projeto envolvendo Visão computacional.
 
 ### [Nome do Projeto 2](link-para-o-projeto)
