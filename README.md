@@ -25,11 +25,11 @@ Sou um estudante de Engenharia Mecatrônica e pesquisador na área de robótica 
 
 ## Projetos Destacados
 
-### [Leds_VisãoComputacional](https://github.com/igorpix/Leds_VisaoComputacional.git)
+### [Controle inteligente de semáforos](https://github.com/igorpix/Leds_VisaoComputacional.git)
 Meu primeiro projeto envolvendo Visão computacional.
 
 ### [Labirinto de Palavras](https://github.com/igorpix/MeuPrimeiroJogo)
-Outra breve descrição do projeto e suas principais características.
+Meu primeiro jogo utilizando JavaScript.
 
 ## Contato
 
