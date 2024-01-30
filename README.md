@@ -28,7 +28,7 @@ Sou um estudante de Engenharia Mecatrônica e pesquisador na área de robótica 
 ### [Leds_VisãoComputacional](https://github.com/igorpix/Leds_VisaoComputacional.git)
 Meu primeiro projeto envolvendo Visão computacional.
 
-### [Nome do Projeto 2](link-para-o-projeto)
+### [Labirinto de Palavras](https://github.com/igorpix/MeuPrimeiroJogo)
 Outra breve descrição do projeto e suas principais características.
 
 ## Contato
