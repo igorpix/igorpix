@@ -1,9 +1,5 @@
 # Oii! Me chamo Igor Matias
 
-## Sobre mim
-
-Sou um estudante de Engenharia Mecatrônica e pesquisador na área de robótica educacional. Atualmente, estou explorando linguagens de programação e tecnologias de hardware acessíveis, buscando expandir meus conhecimentos e habilidades.
-
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=igorpix&show_icons=true&theme=radical&count_private=true)
 
 ## Habilidades
