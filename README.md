@@ -31,14 +31,18 @@ Sou Bacharel em Ciência e Tecnologia e Mestrando em Robótica e Visão Computac
 
 ## 🚀 Projetos Destacados
 
+### 🐠 [Coral Reefs Classifier](https://github.com/igorpix/Coral-Reefs-Classifier)
+Classificador de imagens para identificar o nível de saúde de recifes de corais usando técnicas de visão computacional e machine learning. Inclui pré-processamento, extração de características e avaliação de modelo.
+
+### 🧠 [Previsão de Risco de Alzheimer](https://github.com/igorpix/alzheimers-risk-prediction)
+Modelo de classificação binária usando PyTorch para prever risco de Alzheimer com base em dados clínicos e demográficos. O projeto inclui pré-processamento com Pandas, normalização, ROC Curve, matriz de confusão e métricas como Acurácia, F1-score e AUC.
+
 ### 🔦 [Controle Inteligente de Semáforos](https://github.com/igorpix/Leds_VisaoComputacional.git)
 Projeto simples usando Visão Computacional para interagir com LEDs via Arduino.
 
 ### 🎮 [Labirinto de Palavras](https://github.com/igorpix/MeuPrimeiroJogo)
 Jogo desenvolvido em JavaScript usando p5.js — meu primeiro projeto interativo.
 
-### ✋ Hand Tracking com Mediapipe (em breve)
-Contagem de dedos e interação usando rastreamento de mãos — será adicionado em breve.
 
 ---
 
